@@ -1,0 +1,9 @@
+.container{
+    border: 5px double blueviolet;
+margin: 50px;
+}
+
+
+.app-title{
+    text-align: center;
+}

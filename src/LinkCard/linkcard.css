@@ -1,0 +1,63 @@
+.link-card{
+    margin: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 1px 3px rgb(0, 0, 0, 0.7);
+    cursor: pointer;
+}
+
+.container-linkhandler{
+    display: flex;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.handle-name{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-img{
+    padding: 10px;
+    height: 60px;
+    background-color: white;
+    box-shadow: 0px 0px 5px 2px tomato;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.handle-des{
+    margin-top: -20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.bg-Linkedin{
+    background-color: #007785;
+}
+
+.bg-Github{
+    background-color: #24292e;
+    color: white;
+}
+
+.bg-Twitter{
+    background-color: #348feb;
+}
+.bg-Insta{
+background-color: black;
+}
+.bg-Snap{
+    background-color: darkgoldenrod;
+}
+.username{
+    font-size: 30px;
+    margin-left: 20px;
+
+}
+.hyperlink{
+    text-decoration: none;
+    color: aliceblue;
+
+}
